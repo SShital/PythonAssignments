@@ -1,0 +1,30 @@
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM532540.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: TATA CONSULTANCY SERVICES LTD. EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539678.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Quick Heal Technologies Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539450.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: S H Kelkar and Company Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539551.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Narayana Hrudayalaya Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539889.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Parag Milk Foods Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539636.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Precision Camshafts Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539917.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Nagarjuna Fertilizers and Chemicals Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539981.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Max India Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539597.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Jindal Stainless (Hisar) Ltd EOD Prices
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE/BOM539542.json?api_key=88zuHyM9xTtsbtCNRUcW HTTP/1.1" 200 None
+INFO      : Company info: Lux Industries Ltd EOD Prices
