@@ -1,4 +1,5 @@
 
-this line has conflict added line one more
+this line has conflic line one more
 third line added
 check confilt
+new line 
