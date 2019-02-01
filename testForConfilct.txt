@@ -1,4 +1,4 @@
 
-this line has conflict added line one more
-third line added
+this line has conflict added line one to towww
+third line added kkkk added name
 check confilt
