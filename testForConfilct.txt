@@ -1,2 +1,4 @@
-Hello
-this line has conflict
+
+this line has conflict added line one more
+third line added
+check confilt
