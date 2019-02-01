@@ -1,6 +1,0 @@
-=======
-this line has conflic line one more
-third line added
-check confilt
-new line 
-
